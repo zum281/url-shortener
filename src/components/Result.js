@@ -1,11 +1,5 @@
 import { makeStyles } from "@material-ui/core/styles";
-import {
-    Button,
-    TextField,
-    Typography,
-    Paper,
-    IconButton,
-} from "@material-ui/core";
+import { Typography, Paper, IconButton } from "@material-ui/core";
 import FileCopyIcon from "@material-ui/icons/FileCopy";
 import DoneIcon from "@material-ui/icons/Done";
 import { CopyToClipboard } from "react-copy-to-clipboard";
